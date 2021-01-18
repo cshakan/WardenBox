@@ -1,0 +1,6 @@
+import aimbot;
+
+if player.class == "Warden"
+{
+	aimbot.toggle(true);
+}
